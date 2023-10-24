@@ -135,19 +135,19 @@ main p {
 }
 
 body.dark-mode .navbar {
-    background-color: #444 !important;
+    background-color: #444 ;
 }
 
 body.dark-mode .navbar .nav-link {
-    color: #f4f4f4 !important;
+    color: #f4f4f4 ;
 }
 
 body.dark-mode .list-group-item {
-    background-color: #444 !important;
-    border-color: #555 !important;
+    background-color: #444 ;
+    border-color: #555 ;
 }
 
 body.dark-mode .list-group-item:hover {
-    background-color: #555 !important;
+    background-color: #555 ;
 }
 
